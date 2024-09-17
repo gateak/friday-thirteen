@@ -1,0 +1,11 @@
+{
+  "name": "friday-thirteen",
+  "version": "1.0.0",
+  "description": "calculates what year an input of month will have friday the thirteenth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
